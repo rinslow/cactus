@@ -1,3 +1,5 @@
+<img src="http://squarecactus.co.uk/wp-content/uploads/2015/07/sqcalogo-spikeytranswhite.png"/>
+
 # cactus
 CLI Shortcut to .exe files.
 
