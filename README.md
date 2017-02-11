@@ -1,4 +1,4 @@
-<img src="http://squarecactus.co.uk/wp-content/uploads/2015/07/sqcalogo-spikeytranswhite.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Cactus_Logo.svg/2000px-Cactus_Logo.svg.png"/>
 
 # cactus
 CLI Shortcut to .exe files.
@@ -12,3 +12,7 @@ CLI Shortcut to .exe files.
 4. cactus --help
 5. cactus add lol C:/Program\ Files/Riot\ Games/lollauncher.exe
 6. cactus lol
+
+
+
+Logo from [here](https://commons.wikimedia.org/wiki/File:Cactus_Logo.svg). :) 
